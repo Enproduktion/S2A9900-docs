@@ -32,7 +32,6 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx.ext.todo',
-              'sphinx.ext.githubpages',
               'rst2pdf.pdfbuilder']
 
 # extensions = ['sphinx.ext.todo',
